@@ -1,7 +1,0 @@
-{
-    "terminal.integrated.automationProfile.windows": {
-    },
-    "terminal.integrated.shellArgs.windows": 
-    {"K", "C:\\<path-to-conda-installation>\\Scripts\\activate.bat C:\\<path-to-conda-installation>"}
-}
-
