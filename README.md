@@ -19,7 +19,7 @@ We built machine learning model that can detect the users level of focus in the 
 
 ### Endpoint
 #### Request
-```json
+```
 POST: /predict
 Payload:
 {
@@ -27,7 +27,7 @@ Payload:
 }
 ```
 #### Response
-```json
+```
 {
     "predict_image": < confidence that the person in the image is focused. Between 0.0 - 1.0 >
 }
