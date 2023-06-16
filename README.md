@@ -11,7 +11,7 @@ We built machine learning model that can detect the users level of focus in the 
 [Focus Detection](https://colab.research.google.com/drive/1PWuEJlyRO1hnscVo-E7-hZraAY1j1S1o#scrollTo=Xx7n0tT2VdN8)
 
 ## Model Architecture
-![My Image](modelarchitecture.png)
+![My Image](img/modelarchitecture.png)
 
 ### Powered by
 - Flask
